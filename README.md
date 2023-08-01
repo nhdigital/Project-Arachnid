@@ -13,18 +13,18 @@ Patrolling is determined by an array of waypoints in which a random array index 
 
 
 
-![](docs/scrn1.png)
+![](Docs/scrn1.png)
 
-![](docs/scrn2.png)
+![](Docs/scrn2.png)
 
 
 Line of sight detection FOV gizmos.
-![](docs/scrn3.png)
+![](Docs/scrn3.png)
 
 Array of waypoints laid out across the level.
-![](docs/scrn4.png)
+![](Docs/scrn4.png)
 
 
-<a href="./docs/RadiusVideo.mp4">Play Radius Video</a>
+<a href="./Docs/RadiusVideo.mp4">Play Radius Video</a>
 
-<a href="./docs/AttackVideo.mp4">Play Attack Video</a>
+<a href="./Docs/AttackVideo.mp4">Play Attack Video</a>
