@@ -25,6 +25,6 @@ Array of waypoints laid out across the level.
 ![](Docs/scrn4.png)
 
 
-<a href="https://github.com/nhdigital/Project-Arachnid/raw/main/Docs/RadiusVideo.mp4" target=_blank>Play Radius Video</a>
+<a href="https://github.com/nhdigital/Project-Arachnid/raw/main/Docs/RadiusVideo.mp4" target=_blank>Radius Video</a>
 
-<a href="https://github.com/nhdigital/Project-Arachnid/raw/main/Docs/AttackVideo.mp4" target=_blank>Play Attack Video</a>
+<a href="https://github.com/nhdigital/Project-Arachnid/raw/main/Docs/AttackVideo.mp4" target=_blank>Attack Video</a>
